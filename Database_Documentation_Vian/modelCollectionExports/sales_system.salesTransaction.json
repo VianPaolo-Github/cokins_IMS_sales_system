@@ -1,0 +1,10 @@
+[{
+  "_id": {
+    "$oid": "66ffcc4a6947e4364deb26d0"
+  },
+  "sales_Transaction_id": 1,
+  "capital": 0,
+  "total_Sales": 0,
+  "profit": 0,
+  "user_id": 0
+}]

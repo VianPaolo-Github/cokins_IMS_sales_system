@@ -1,0 +1,30 @@
+[{
+  "_id": {
+    "$oid": "66ffcbb36947e4364deb26cd"
+  },
+  "user_id": 1,
+  "first_name": "John",
+  "last_name": "Doe",
+  "email": "johndoe1@gmail.com",
+  "password": "123123123",
+  "confirm_password": "123123123",
+  "OTP": "0",
+  "username": "JohnnyBravo12",
+  "phone": "9458772454",
+  "team": "Management"
+},
+{
+  "_id": {
+    "$oid": "66fff0d7615bbc80b6676f92"
+  },
+  "user_id": 2,
+  "first_name": "Moustache",
+  "last_name": "Man",
+  "email": "PogiWhite555@gmail.com",
+  "password": "12345678",
+  "confirm_password": "12345678",
+  "OTP": "0",
+  "username": "HeilHitler555",
+  "phone": "4548996355",
+  "team": "Management"
+}]

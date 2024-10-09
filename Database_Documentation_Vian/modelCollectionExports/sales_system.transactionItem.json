@@ -1,0 +1,11 @@
+[{
+  "_id": {
+    "$oid": "66ffccf46947e4364deb26de"
+  },
+  "transaction_Item_id": 1,
+  "product_id": 1,
+  "sales_Transaction_ID": 1,
+  "quantity_integer": 1,
+  "unit_price": 1,
+  "total_price": 1
+}]
